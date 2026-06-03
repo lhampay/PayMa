@@ -44,6 +44,28 @@ a:hover {
    
 }
 
+.hero{
+    height: 100vh;
+    padding: 10px;
+    background-image: url("/images/img\ 15\(ad\).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 2;      
+    
+}
+
+h2{
+  font-weight: bolder;
+  font-size: 90px;
+  color:coral;
+}
+
 h1{
     text-align: center;
     color: indianred;
